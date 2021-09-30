@@ -1,6 +1,6 @@
 ## Hey! 👋
 I'm Abdulazeez, a Frontend Engineer and Blockchain Enthusiast from Lagos, Nigeria 🇳🇬. 
-<img src="https://images.app.goo.gl/nUZLiM8dBAvXQFax9" alt="" height="100" width="250"/>
+<img src="https://images.app.goo.gl/nUZLiM8dBAvXQFax9" alt="kjkge" height="100" width="250"/>
 ## Tech Stack
 -  UI/UX  ️✅
 -  React ️✅
