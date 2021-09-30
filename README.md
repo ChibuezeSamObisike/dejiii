@@ -1,7 +1,7 @@
 ## Hey! 👋
-I'm Abdulazeez, a Frontend Engineer and Blockchain Enthusiast forn Lagos, Nigeria 🇳🇬. 
+I'm Abdulazeez, a Frontend Engineer and Blockchain Enthusiast from Lagos, Nigeria 🇳🇬. 
 
-#### Tech Stack
+## Tech Stack
 -  UI/UX  ️✅
 -  React ️✅
 -  NextJS ✅
