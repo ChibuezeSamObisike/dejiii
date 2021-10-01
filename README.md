@@ -13,6 +13,8 @@ A Frontend Engineer and Blockchain Enthusiast from Lagos, Nigeria 🇳🇬.
 -  Typescript  ⏳
 -  Solidity ⏳
 -  Web3 ⏳
+-  Google Cloud Platform
+-  GraphQL
 
 ## Contact
 - [Twitter](https://twitter.com/dejidev)
