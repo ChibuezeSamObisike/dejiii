@@ -18,4 +18,4 @@ A Frontend Engineer and Blockchain Enthusiast from Lagos, Nigeria 🇳🇬.
 
 ## Contact
 - [Twitter](https://twitter.com/dejidev)
-- [Email](adeyigaabdulazeez@gmail.com) 
+- [Email](mailto:adeyigaabdulazeez@gmail.com) 
