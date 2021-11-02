@@ -6,16 +6,16 @@ A Frontend Engineer and Blockchain Enthusiast from Lagos, Nigeria 🇳🇬.
 
 
 ## Tech Stack
--  UI/UX  ️✅
--  React ️✅
--  React Native ️✅
--  NextJS ✅
--  Node.js  ⏳
--  Typescript  ⏳
--  Solidity ⏳
--  Web3 ⏳
--  Google Cloud Platform
--  GraphQL
+✅ UI/UX  ️
+✅ React ️
+✅ React Native ️
+✅ NextJS 
+⏳ Node.js  
+⏳ Typescript  
+⏳  Solidity 
+⏳  Web3 
+⏳  Google Cloud Platform
+⏳  GraphQL
 
 ## Contact
 - [Twitter](https://twitter.com/dejidev)
